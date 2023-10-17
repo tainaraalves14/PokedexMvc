@@ -9,5 +9,8 @@
 - Área administrativa para gerenciamento de dados de Pokémon.
 - Autenticação de administradores..
 
+  
+
+![WhatsApp Image 2023-10-17 at 15 28 58](https://github.com/tainaraalves14/PokedexMvc/assets/109969949/61be93f8-afd0-4cec-81ff-bb0dfd806430)
 
 
