@@ -1,5 +1,5 @@
 # PokedexMvc
-![Pokédex Image](link_para_uma_imagem)
+![image](https://github.com/tainaraalves14/PokedexMvc/assets/109969949/8c8b30f1-cb46-4758-8d56-284e8add7eab)
 
 **Pokédex MVC** é um aplicativo web que fornece informações sobre Pokémon e inclui uma área administrativa para gerenciamento de dados. Os usuários podem visualizar detalhes sobre Pokémon, enquanto os administradores têm acesso a recursos de gerenciamento.
 
